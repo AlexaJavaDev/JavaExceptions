@@ -9,7 +9,9 @@
 
 | № | Файл | Что делает |
 |---|------|-------------|
-|   |      |             |
+| 1 | `ArithmeticExceptionExamples.md` | Деление на ноль |
+| 2 | `ArrayIndexOutOfBoundsExceptionExamples.md` | Выход за границы массива |
+| 3 | `NumberFormatExceptionExamples.md` | Ошибка преобразования строки в число |
 
 > Постепенно буду добавлять примеры.
 
